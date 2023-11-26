@@ -1,0 +1,271 @@
+/*contactos*/
+.img-maria{
+    width: 100px;
+    height: 100px;
+    border-radius: 800px;
+    border-top: 10px;
+    
+}
+.maria{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-maria{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.icon-maria{
+    display: flex;
+    color:grey;
+}
+/*boton*/
+.btn-a{
+display: flex;
+justify-content: center;
+align-items: center;
+padding:1rem;
+margin-top: 2rem;    
+width:200px;
+background-color:rgb(215, 160, 252);
+color:white;
+border:none;
+font-size:medium;
+cursor:pointer;
+}
+
+/*contactos*/
+.img-juanita{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+    
+}
+.juanita{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-juanita{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-j{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-j{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-alberto{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+    
+}
+.alberto{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-alberto{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-a{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-a{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-ignacio{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+    
+}
+.ignacio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-ignacio{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-i{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-i{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-cristian{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+    
+}
+.cristian{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-cristian{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-c{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-c{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-maria-jose{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+    
+}
+.maria-jose{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-maria-jose{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-mj{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-mj{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-gonzalo{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+}
+.gonzalo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-gonzalo{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-gonzalo{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-gonzalo{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+.img-juan-pablo{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+}
+.juan-pablo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-juan-pablo{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-jp{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-jp{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+
+.img-magdalena{
+    width: 120px;
+    height: 120px;
+    border-radius: 800px;
+    margin-top: 60px;
+}
+.magdalena{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-magdalena{
+    display: flex;
+    flex-direction: column;
+}
+.first-paragraph-magdalena{
+margin-bottom: 1px;
+font-size: large;
+}
+.second-paragraph-magdalena{
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: small;
+    color:grey;
+}
+/*networking*/
+.networking{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    border-top: 10px;
+}
+.networking-mano{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
